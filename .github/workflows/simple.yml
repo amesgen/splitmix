@@ -2,7 +2,7 @@ name: Simple
 on:
   push:
     branches:
-      - master
+      - wasi-ci
   pull_request:
     branches:
       - master
